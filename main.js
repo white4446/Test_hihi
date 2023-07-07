@@ -10,3 +10,6 @@ if (randomNumber % 2 === 0) {
 } else {
   console.log("The number is odd.");
 }
+
+console.log("Random number is": randomNumber)
+
